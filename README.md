@@ -4,19 +4,16 @@ A tiny, open source, Mario-style 2D platformer built with **vanilla JavaScript**
 
 > **Note:** This is an original homage to classic platformers. It contains no Nintendo assets, code, or trademarks — all art is drawn programmatically and all content is original.
 
-## How to Play
+## Play it now
 
-Just open `index.html` in any modern browser — or run a local server:
+**➡️ [Play in your browser](https://ca4219248-blip.github.io/mario-style-platformer/)**
+
+Or run it locally — just open `index.html` in any modern browser, or run a local server:
 
 ```bash
-# Option 1: simply double-click index.html
-
-# Option 2: local server (recommended)
 python3 -m http.server 8000
 # then open http://localhost:8000
 ```
-
-**Play it online:** [GitHub Pages link — enable Pages in repo settings, then update this line]
 
 ## Controls
 
